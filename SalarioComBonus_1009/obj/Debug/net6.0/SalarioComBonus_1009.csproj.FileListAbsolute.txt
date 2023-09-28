@@ -1,0 +1,15 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\bin\Debug\net6.0\SalarioComBonus_1009.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\bin\Debug\net6.0\SalarioComBonus_1009.deps.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\bin\Debug\net6.0\SalarioComBonus_1009.runtimeconfig.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\bin\Debug\net6.0\SalarioComBonus_1009.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\bin\Debug\net6.0\SalarioComBonus_1009.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.csproj.AssemblyReference.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.AssemblyInfoInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.AssemblyInfo.cs
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\refint\SalarioComBonus_1009.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.genruntimeconfig.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\ref\SalarioComBonus_1009.dll
